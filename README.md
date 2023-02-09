@@ -2,6 +2,9 @@
 
 This bot is based on the `text-davinci-0031` model from OpenAI.
 
+### Goals:
+- To practice English speaking. 
+
 ### Working steps:
 
 - Captures and recognizes audio (listening phase).
@@ -12,6 +15,8 @@ This bot is based on the `text-davinci-0031` model from OpenAI.
 - openai
 - speech_recognition
 - gtts
+
+Also, you need to create an account on the OpenAI website, and you will get your API key.
 
 Installing commands:
 - pip install openai
