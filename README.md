@@ -19,8 +19,8 @@ This bot is based on the `text-davinci-0031` model from OpenAI.
 Also, you need to create an account on the OpenAI website, and you will get your API key.
 
 Installing commands:
-- pip install openai
-- pip install SpeechRecognition
-- pip install gTTS
+- `pip install openai`
+- `pip install SpeechRecognition`
+- `pip install gTTS`
 
 NB: You can vary the sleep time to adjust the conversation pace.
